@@ -75,7 +75,7 @@ Give a ⭐️ if this project helped you!
 
 ## 📝 License
 
-Copyright © 2021 [loTus01](https://github.com/loTus04).<br />
+Copyright © 2021 [HawksDev](https://github.com/HawksDev).<br />
 This project is [MIT](https://github.com/kefranabg/readme-md-generator/blob/master/LICENSE) licensed.
 
 ***
